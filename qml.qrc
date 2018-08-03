@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Buttons.qml</file>
+        <file>ListOfCard.qml</file>
+        <file>PersonalData.qml</file>
+        <file>ListOfWallets.qml</file>
+        <file>image/account.png</file>
+        <file>image/credit.png</file>
+        <file>image/in.png</file>
+        <file>image/old_fox.jpg</file>
+        <file>image/out.png</file>
+    </qresource>
+</RCC>
