@@ -44,7 +44,7 @@ GroupBox {
                 implicitHeight: 80
                 anchors.fill: parent
                 clip: true
-                //orientation: ListView.Horizontal
+                orientation: ListView.Horizontal
 
                 model: WalletModel {
                     list: walletList
